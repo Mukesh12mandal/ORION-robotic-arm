@@ -374,11 +374,11 @@ The issue was traced to unsynchronized access to a shared software resource. Whi
 
 A dedicated mutex `tts_lock = Lock()` was introduced to serialize all interactions with the speech engine.
 
-    ``` python 
+    
     with tts_lock:
         engine.say(text)
         engine.runAndWait()
-    ```
+    
 
 By protecting every speech generation request with a thread-safe lock, only one execution thread is permitted to access the text-to-speech engine at any given time. This eliminated race conditions entirely, allowing seamless transitions between voice execution and manual interaction regardless of user input frequency.
 
