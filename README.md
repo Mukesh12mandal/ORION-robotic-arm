@@ -20,6 +20,7 @@ The architecture intentionally separates high-level human interaction from low-l
 
 ## 2. System Architecture 
 
+```text
                  Human Operator
                        │
               "Orion" Wake Word
@@ -48,7 +49,7 @@ The architecture intentionally separates high-level human interaction from low-l
                  Six Servo Motors
                        │
                  6-DOF Robotic Arm
-
+```
 ---
 
 ## 3. Project Scope & Contributions
