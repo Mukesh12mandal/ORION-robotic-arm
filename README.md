@@ -4,6 +4,8 @@
 
 *Figure: Orion Robotic Arm*
 
+https://github.com/user-attachments/assets/ec81ec1a-1387-45c0-ae21-1b6e3b48f936
+
 A voice-interactive robotic manipulation platform that combines speech recognition, conversational feedback, graphical manual control, and embedded motion control into a unified human-robot interaction system.
 
 ---
@@ -274,7 +276,7 @@ The control system operated correctly, while the mechanical design requires addi
 
 ## 6.4 Wrist Pitch and Roll Validation
 
-
+https://github.com/user-attachments/assets/ec81ec1a-1387-45c0-ae21-1b6e3b48f936
 
 *Figure: Wrist pitch and roll validation*
 
