@@ -373,6 +373,7 @@ The issue was traced to unsynchronized access to a shared software resource. Whi
 ### The Solution
 
 A dedicated mutex `tts_lock = Lock()` was introduced to serialize all interactions with the speech engine.
+
     ``` python 
     with tts_lock:
         engine.say(text)
