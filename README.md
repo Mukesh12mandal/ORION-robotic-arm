@@ -220,7 +220,7 @@ The graphical control interface successfully provided reliable real-time manual 
 
 ## 6.2 Base Rotation Validation
 
-<img srx>
+https://github.com/user-attachments/assets/682864d3-f2bd-451e-9623-8bdfbc9ef599
 
 *Figure: Base rotation test.*
 
