@@ -299,7 +299,7 @@ The wrist pitch and roll joint was evaluated independently to verify precise art
 
 ## 6.5 Gripper Validation
 
-
+https://github.com/user-attachments/assets/8c92a49a-4f5d-4c46-a006-a9b793e880b9
 
 *Figure: Gripper Operation.*
 
